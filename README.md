@@ -1,4 +1,4 @@
-![Header](https://github.com/LalitKushwah/LalitKushwah/blob/main/images/banner.png)
+<!-- ![Header](https://github.com/LalitKushwah/LalitKushwah/blob/main/images/banner.png) -->
 
 # Hello folks!👋
 
@@ -13,5 +13,3 @@ I am a full stack developer having proficient knowledge in Angular, Ionic, Node.
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
-
-## 🔗 &nbsp;**Connect with me**
