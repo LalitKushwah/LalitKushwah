@@ -1,4 +1,4 @@
-![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
+![Header](https://github.com/LalitKushwah/LalitKushwah/blob/main/images/banner.png)
 
 # Hello folks!👋
 
@@ -13,23 +13,5 @@ I am a full stack developer having proficient knowledge in Angular, Ionic, Node.
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/LalitKushwah/LalitKushwah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitKushwah&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/LalitKushwah/LalitKushwah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LalitKushwah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
-</a>
-<a href="https://github.com/LalitKushwah/LalitKushwah">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LalitKushwah&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/LalitKushwah/LalitKushwah">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LalitKushwah&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/LalitKushwah/LalitKushwah">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LalitKushwah&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 ## 🔗 &nbsp;**Connect with me**
