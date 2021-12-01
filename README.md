@@ -2,7 +2,7 @@
 
 # Hello folks!👋
 
-I am a full stack developer having proficient knowledge in Angular, Ionic, Node.js, MongoDB and Web components. I believe in the technology-agnostic theory so no matter whichever technology I have to learn or to be master in to build solutions.
+I am a full stack developer having proficient knowledge in React, React-Native, Angular, Ionic, Node.js, MongoDB and Web components. I believe in the technology-agnostic theory so no matter whichever technology I have to learn or to be master in to build solutions.
 
 ## 🔧 Langueages & Tools
 
