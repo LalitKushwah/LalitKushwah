@@ -13,3 +13,6 @@ I am a full stack developer having proficient knowledge in React, React-Native, 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
