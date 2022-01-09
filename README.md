@@ -4,7 +4,7 @@
 
 I am a full stack developer having proficient knowledge in React, React-Native, Angular, Ionic, Node.js, MongoDB and Web components. I believe in the technology-agnostic theory so no matter whichever technology I have to learn or to be master in to build solutions.
 
-## 🔧 Langueages & Tools
+## 🔧 Languages & Tools
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
