@@ -15,4 +15,4 @@ I am Lalit Kushwah a full stack developer having proficient knowledge in React, 
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LalitKushwah)](https://git.io/streak-stats)
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=LalitKushwah&show_icons=true alt=LalitKushwah /> </p>
