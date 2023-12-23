@@ -2,7 +2,7 @@
 
 # Hello folks!👋
 
-I am Lalit Kushwah a full stack developer having proficient knowledge in React, React-Native, Angular, Ionic, Node.js, MongoDB and Web components. I believe in the technology-agnostic theory so no matter whichever technology I have to learn or to be master in to build solutions.
+I am Lalit Kushwah a full-stack developer having proficient knowledge in React, React-Native, Angular, Ionic, Node.js, MongoDB and Web components. I believe in the technology-agnostic theory so no matter what technology I have to learn or to be master in to build solutions.
 
 ## 🔧 Languages & Tools
 
@@ -13,6 +13,3 @@ I am Lalit Kushwah a full stack developer having proficient knowledge in React, 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
-
-
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=LalitKushwah&show_icons=true alt=LalitKushwah /> </p>
