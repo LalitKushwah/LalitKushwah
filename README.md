@@ -55,5 +55,5 @@ I love sharing knowledge. Check out my latest thoughts on **Medium** or see my c
 ---
 
 ### 📫 Let's Connect!
-*   **Portfolio:** [lalitkushwah.dev](https://portfolio-lalitkushwahdev-gmailcom.vercel.app/)
+*   **Portfolio:** [lalitkushwah.dev](https://portfolio-m85v-git-main-lalitkushwahdevgmailcoms-projects.vercel.app/)
 *   **Email:** [lalitkushwah.dev@gmail.com](mailto:lalitkushwah.dev@gmail.com)
